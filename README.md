@@ -61,7 +61,7 @@ const TEAM_X = {
 ### <img src="https://raw.githubusercontent.com/rahul-jha98/github-readme-active/main/src/assets/icons/rocket.png" width="25px" /> Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aim914/aim94/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aim914/aim914/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ const TEAM_X = {
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aim914/aim914/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <p align="center">
