@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aim914/aim914/main/banner.gif" width="100%" />
-
 ### Hey there <img src="https://raw.githubusercontent.com/kaustubh03/kaustubh03/master/wave.gif" width="35px">, I'm **aim914**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F521&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CyberSec+Enthusiast;Bot+Builder;Always+Learning" alt="Typing SVG" />
