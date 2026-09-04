@@ -36,12 +36,18 @@
 ### 📊 GitHub Stats & 🔠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aim914&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aim914&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="Top Langs" width="48%"/>
+  <a href="https://github.com/aim914">
+    <img src="https://github-readme-stats.vercel.app/api?username=aim914&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/aim914?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aim914&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="Top Langs" width="48%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aim914&theme=radical&hide_border=true&background=0d1117&ring=00F521&fire=00F521&currStreakLabel=00F521" alt="Streak Stats" width="50%"/>
+  <a href="https://github.com/aim914">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aim914&theme=radical&hide_border=true&background=0d1117&ring=00F521&fire=00F521&currStreakLabel=00F521" alt="Streak Stats" width="50%"/>
+  </a>
 </p>
 
 <p align="center">
