@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & 🔠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aim914&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
@@ -52,24 +52,40 @@
 
 ### 🚀 Featured Projects
 
-- 🌐 **[web-scraper-tool](https://github.com/aim914/web-scraper-tool)** &nbsp;—&nbsp; Web Scraper & Video Downloader (Instagram, TikTok, YouTube, Twitter)
-- 🛠️ **[swb-converter](https://github.com/aim914/swb-converter)** &nbsp;—&nbsp; Converter & Analyzer for Sketchware, SolidWorks & MikroTik SWB files
-- 🤖 **[TEAM-X-BOT](https://github.com/aim914/TEAM-X-BOT)** &nbsp;—&nbsp; Powerful Multi-functional Automation Bot
-- 📥 **[mediafire-downloader](https://github.com/aim914/mediafire-downloader)** &nbsp;—&nbsp; Direct Mediafire File Downloader Tool
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/aim914/web-scraper-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=web-scraper-tool&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="web-scraper-tool"/>
-  </a>
-  <a href="https://github.com/aim914/swb-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=swb-converter&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="swb-converter"/>
-  </a>
-  <a href="https://github.com/aim914/TEAM-X-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=TEAM-X-BOT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="TEAM-X-BOT"/>
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/aim914/web-scraper-tool"><font color="#00F521">web-scraper-tool</font></a></h4>
+      <p><i>Web Scraper & Video Downloader (Instagram, TikTok, YouTube, Twitter)</i></p>
+      <a href="https://github.com/aim914/web-scraper-tool">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=web-scraper-tool&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ <a href="https://github.com/aim914/swb-converter"><font color="#00F521">swb-converter</font></a></h4>
+      <p><i>Converter & Analyzer for Sketchware, SolidWorks & MikroTik SWB files</i></p>
+      <a href="https://github.com/aim914/swb-converter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=swb-converter&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/aim914/TEAM-X-BOT"><font color="#00F521">TEAM-X-BOT</font></a></h4>
+      <p><i>Powerful Multi-functional Automation Bot</i></p>
+      <a href="https://github.com/aim914/TEAM-X-BOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=TEAM-X-BOT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📥 <a href="https://github.com/aim914/mediafire-downloader"><font color="#00F521">mediafire-downloader</font></a></h4>
+      <p><i>Direct Mediafire File Downloader Tool</i></p>
+      <a href="https://github.com/aim914/mediafire-downloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=mediafire-downloader&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
