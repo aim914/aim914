@@ -52,12 +52,12 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <b>🌐 <a href="https://github.com/aim914/web-scraper-tool">Web Scraper Tool</a></b> &nbsp;|&nbsp; 
-  <b>🛠️ <a href="https://github.com/aim914/swb-converter">SWB Converter</a></b> &nbsp;|&nbsp; 
-  <b>🤖 <a href="https://github.com/aim914/TEAM-X-BOT">TEAM-X-BOT</a></b> &nbsp;|&nbsp; 
-  <b>📥 <a href="https://github.com/aim914/mediafire-downloader">Mediafire Downloader</a></b>
-</p>
+- 🌐 **[web-scraper-tool](https://github.com/aim914/web-scraper-tool)** &nbsp;—&nbsp; Web Scraper & Video Downloader (Instagram, TikTok, YouTube, Twitter)
+- 🛠️ **[swb-converter](https://github.com/aim914/swb-converter)** &nbsp;—&nbsp; Converter & Analyzer for Sketchware, SolidWorks & MikroTik SWB files
+- 🤖 **[TEAM-X-BOT](https://github.com/aim914/TEAM-X-BOT)** &nbsp;—&nbsp; Powerful Multi-functional Automation Bot
+- 📥 **[mediafire-downloader](https://github.com/aim914/mediafire-downloader)** &nbsp;—&nbsp; Direct Mediafire File Downloader Tool
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/aim914/web-scraper-tool">
