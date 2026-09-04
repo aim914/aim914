@@ -53,11 +53,18 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/aim914/dpt-shell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=dpt-shell&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="dpt-shell"/>
+  <b>🌐 <a href="https://github.com/aim914/web-scraper-tool">Web Scraper Tool</a></b> &nbsp;|&nbsp; 
+  <b>🛠️ <a href="https://github.com/aim914/swb-converter">SWB Converter</a></b> &nbsp;|&nbsp; 
+  <b>🤖 <a href="https://github.com/aim914/TEAM-X-BOT">TEAM-X-BOT</a></b> &nbsp;|&nbsp; 
+  <b>📥 <a href="https://github.com/aim914/mediafire-downloader">Mediafire Downloader</a></b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aim914/web-scraper-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=web-scraper-tool&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="web-scraper-tool"/>
   </a>
-  <a href="https://github.com/aim914/wingo-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=wingo-bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="wingo-bot"/>
+  <a href="https://github.com/aim914/swb-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=swb-converter&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="swb-converter"/>
   </a>
   <a href="https://github.com/aim914/TEAM-X-BOT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aim914&repo=TEAM-X-BOT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F521&icon_color=00F521&text_color=C9D1D9" alt="TEAM-X-BOT"/>
