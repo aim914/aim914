@@ -44,6 +44,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aim914&theme=radical&hide_border=true&background=0d1117&ring=00F521&fire=00F521&currStreakLabel=00F521" alt="Streak Stats" width="50%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aim914/aim914/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
