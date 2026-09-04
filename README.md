@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#00F521">aim914</span></h1>
+<h1 align="center">Hey 👋, I'm <span style="color:#00F521">Kaushik SarKar</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F521&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CyberSec+Enthusiast;Bot+Builder;Always+Learning" alt="Typing SVG" />
