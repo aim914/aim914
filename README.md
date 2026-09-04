@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python, JavaScript, Web Security, Bot Building**
 - 🏢 Company: **TEAM X CORPORATION**
 - 📍 Location: **India**
-- ⚡ Motto: **ONE FOR ALL, ALL FOR ONE**
+- ⚡ Motto: **ONE FOR ALL**
 
 ---
 
